@@ -2,6 +2,7 @@
 
 This project focuses on diagnosing breast cancer using machine learning techniques applied to digitized images of FNA (Fine Needle Aspiration) samples. It utilizes a dataset consisting of 569 samples, each described by 30 features extracted from the images.
 
+![Image](https://raw.githubusercontent.com/Sjschhabra/Breast-Cancer-Classification-ML/refs/heads/main/Screenshot%202025-05-11%20170010.png)
 ## Dataset
 
 - Contains 569 samples with 30 features computed from digitized FNA images of breast masses.
